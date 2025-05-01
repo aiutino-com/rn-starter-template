@@ -1,6 +1,25 @@
-# Welcome to your Expo app 👋
+# Welcome to ReactNative Starter Template 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Modern Expo Router Starter for building cross-platform React Native apps faster 🚀
+
+## ✨ Features
+
+- Expo Router v2
+- Bottom Tabs + Drawer Navigation
+- Light/Dark Mode based on system settings
+- i18n (English / Italian) integration
+- Theming with dynamic colors
+- Ready for Expo Go & standalone builds
+
+## 📦 Tech Stack
+
+- Expo SDK 52
+- React Native 0.73
+- Expo Router v2
+- i18next (Internationalization)
+- SecureStore for secure persistence
+- TypeScript strict mode
+- 
 
 ## Get started
 
