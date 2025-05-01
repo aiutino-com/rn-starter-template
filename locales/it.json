@@ -1,0 +1,70 @@
+{
+  "common": {
+    "edit": "Modifica",
+    "reset_project": "reset-project",
+    "npm_run": "npm run",
+    "app_example": "app-example",
+    "app": "app"
+  },
+  "home": {
+    "title": "Benvenuto!",
+    "text1": "Passaggio 1: Provalo",
+    "text2": "per vedere le modifiche",
+    "text3": "per aprire gli strumenti per sviluppatori.",
+    "text4": "Passaggio 2: Esplora",
+    "text5": "Tocca la scheda Esplora per saperne di più su cosa è incluso in questa app di avvio.",
+    "text6": "Passaggio 3: Ricomincia da capo",
+    "text7": "Quando sei pronto,",
+    "text8": "per ottenere una",
+    "text9": "directory. Questo sposterà la"
+  },
+  "settings": {
+    "title": "Impostazioni",
+    "current_theme": "Tema attuale:",
+    "dark_mode": "🌑 Modalità Scura",
+    "light_mode": "☀️ Modalità Chiara",
+    "account": "Account",
+    "email": "Email di esempio: example@email.com"
+  },
+  "template": {
+    "title": "Informazioni sul Template",
+    "description": "Questa app include codice di esempio per iniziare subito.",
+    "file_routing": {
+      "title": "Routing basato su file",
+      "text_1": "Questa app include un menu laterale (Drawer) con una schermata Impostazioni, e una navigazione a tab (Tabs) con 3 schermate: Home, Esplora e Profilo",
+      "text_2": "Il file layout imposta la navigazione a tab.",
+      "link": "Scopri di più"
+    },
+    "platforms": {
+      "title": "Supporto Android, iOS e Web",
+      "text": "Puoi aprire questo progetto su Android, iOS e Web."
+    },
+    "images": {
+      "title": "Immagini",
+      "text": "Usa i suffissi @2x e @3x per schermi ad alta densità.",
+      "link": "Scopri di più"
+    },
+    "fonts": {
+      "title": "Font personalizzati",
+      "text": "Scopri come caricare font personalizzati come questo.",
+      "link": "Scopri di più"
+    },
+    "theme": {
+      "title": "Tema chiaro e scuro",
+      "text": "Questo template supporta i temi in base al sistema.",
+      "link": "Scopri di più"
+    },
+    "animations": {
+      "title": "Animazioni",
+      "text": "Include animazioni con react-native-reanimated."
+    }
+  },
+
+  "profile": {
+    "title": "Profilo",
+    "name": "Mario Rossi",
+    "email": "mario.rossi@example.com",
+    "edit": "Modifica Profilo"
+  }
+
+}

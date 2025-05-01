@@ -1,0 +1,69 @@
+{
+  "common": {
+    "edit": "Edit",
+    "reset_project": "reset-project",
+    "npm_run": "npm run",
+    "app_example": "app-example",
+    "app": "app"
+  },
+  "home": {
+    "title": "Welcome!",
+    "text1": "Step 1:  Try it",
+    "text2": "to see changes",
+    "text3": "to open developer tools.",
+    "text4": "Step 2: Explore",
+    "text5": "Tap the Explore tab to learn more about what's included in this starter app.",
+    "text6": "Step 3: Get a fresh start",
+    "text7": "When you're ready,",
+    "text8": "to get a",
+    "text9": "directory. This will move the"
+  },
+  "settings": {
+    "title": "Settings",
+    "current_theme": "Current Theme:",
+    "dark_mode": "🌑 Dark Mode",
+    "light_mode": "☀️ Light Mode",
+    "account": "Account",
+    "email": "Example Email: example@email.com"
+  },
+  "template": {
+    "title": "Template Info",
+    "description": "This app includes example code to help you get started.",
+    "file_routing": {
+      "title": "File-based routing",
+      "text_1": "This app includes a drawer menu with a Settings screen and a bottom tab navigation with 3 screens: Home, Explore and Profile",
+      "text_2": "The layout file sets up the tab navigator.",
+      "link": "Learn more"
+    },
+    "platforms": {
+      "title": "Android, iOS, and web support",
+      "text": "You can open this project on Android, iOS, and the web."
+    },
+    "images": {
+      "title": "Images",
+      "text": "Use @2x and @3x suffixes to support different screen densities.",
+      "link": "Learn more"
+    },
+    "fonts": {
+      "title": "Custom fonts",
+      "text": "See how to load custom fonts like this one.",
+      "link": "Learn more"
+    },
+    "theme": {
+      "title": "Light and dark mode components",
+      "text": "This template supports light and dark mode based on device settings.",
+      "link": "Learn more"
+    },
+    "animations": {
+      "title": "Animations",
+      "text": "This template includes animations using react-native-reanimated."
+    }
+    },
+
+  "profile": {
+    "title": "Profile",
+    "name": "Mario Rossi",
+    "email": "mario.rossi@example.com",
+    "edit": "Edit Profile"
+  }
+}
