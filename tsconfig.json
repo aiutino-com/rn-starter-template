@@ -1,6 +1,6 @@
 {
   "extends": "expo/tsconfig.base",
-  "host": "http://192.168.115.168",
+  "host": "http://192.168.XXX.168",
   "compilerOptions": {
     "strict": true,
     "paths": {
